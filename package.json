@@ -18,7 +18,7 @@
     "@inkeep/agents-manage-api": "^0.37.2",
     "@inkeep/agents-manage-ui": "^0.37.2",
     "@inkeep/agents-run-api": "^0.37.2",
-    "@inkeep/agents-sdk": "^0.37.2",
+    "@inkeep/agents-sdk": "^0.38.0",
     "@inkeep/agents-ui": "^0.15.4",
     "@sentry/cli": "^2.58.2",
     "@sentry/nextjs": "^10.29.0",
